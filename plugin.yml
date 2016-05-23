@@ -1,0 +1,6 @@
+name: EnderCrystalProtection
+version : 0.4
+main: EnderCrystalProtection.EnderCrystalProtection
+author: Falcort
+website: http://thibaultsouquet.fr/
+description: This plugin cancel the block damage of the EnderCrystal.
