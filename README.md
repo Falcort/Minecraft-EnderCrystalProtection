@@ -14,7 +14,7 @@ The goal of this project is to disable the explosives damages of the entity : En
 
 Disable the damages done to :
 
-* Player
+* Players
 * Blocks
 * Entities
 
